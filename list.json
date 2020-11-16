@@ -1,0 +1,84 @@
+{
+    "list":[
+        {
+            "no":"1",
+            "item":"Rice",
+            "quantity":"40",
+            "unit":"kg",
+            "department":"Food",
+            "notes":"Seven Star"
+        },
+        {
+            "no":"2",
+            "item":"Kera Coconut Oil",
+            "quantity":"2",
+            "unit":"Packet",
+            "department":"Food",
+            "notes" : "1 liter packet"
+        },
+        {
+            "no":"3",
+            "item":"Washing Soap",
+            "quantity":"2",
+            "unit":"Number",
+            "department":"Cleaning",
+            "notes" : "Long Bar Type"
+        },
+        {
+            "no":"4",
+            "item":"Banana",
+            "quantity":"1",
+            "unit":"kg",
+            "department":"Food",
+            "notes" : "Less ripen"
+        },
+        {
+            "no":"5",
+            "item":"Face wash",
+            "quantity":"2",
+            "unit":"Bottle",
+            "department":"Beauty & Cosmetics",
+            "notes" : "Himalaya"
+        },
+        {
+            "no":"6",
+            "item":"Chilly Powder",
+            "quantity":"2",
+            "unit":"Packet",
+            "department":"Stationery",
+            "notes" :"250g packet"
+        },
+        {
+            "no":"7",
+            "item":"Cumin",
+            "quantity":"2",
+            "unit":"Packet",
+            "department":"Stationery" ,
+            "notes" :"100g packet"
+        },
+        {
+            "no":"8",
+            "item":"Surf Excel",
+            "quantity":"1",
+            "unit":"Packet",
+            "department":"Cleaning",
+            "notes" : "500g packet"
+        },
+        {
+            "no":"9",
+            "item":"Mustard",
+            "quantity":"2",
+            "unit":"Gram",
+            "department":"Stationery",
+            "notes" : "100g packet"
+        },
+        {
+            "no":"10",
+            "item":"Aata",
+            "quantity":"3",
+            "unit":"Kg",
+            "department":"Food",
+            "notes":"Aashirvaad"
+        }
+    ]
+}
